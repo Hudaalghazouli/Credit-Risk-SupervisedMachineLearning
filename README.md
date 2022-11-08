@@ -4,7 +4,8 @@ In this assignment, I build a machine learning model to decide if the loan will 
 
 ## Study the models
 
-I created and compared two models on this data: a logistic regression, and a random forests classifier. I fit, and score the models to make a prediction to which model will perform better. 
+I created and compared two models on the giving data: a logistic regression, and a random forests classifier. 
+I fitted, and scored the models to make a prediction to which model will perform better. 
 
 ## LogisticRegression model
 
