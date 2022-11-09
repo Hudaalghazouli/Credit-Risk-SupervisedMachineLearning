@@ -1,6 +1,6 @@
 # Supervised Machine Learning - Predicting Credit Risk
 
-In this assignment, I build a machine learning model to decide if the loan will be approved or not. 
+In this assignment, I built a machine learning model to decide if the loan will be approved or not. 
 
 ## Study the models
 
