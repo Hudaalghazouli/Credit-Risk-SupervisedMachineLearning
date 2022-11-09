@@ -7,14 +7,14 @@ In this assignment, I built a machine learning model to decide if the loan will 
 I created and compared two models on the giving data: a logistic regression, and a random forests classifier. 
 I fitted, and scored the models to make a prediction to which model will perform better. 
 
-## LogisticRegression model
+## LogisticRegression model:
 
 the results that I got for the logistic regression after fitting the model into the data and printing the scores are:
 
 - Training Data Score: 0.9921240885954051
 - Testing Data Score: 0.9918489475856377
 
-## Random Forests Classifier model
+## Random Forests Classifier model:
 
 the results that I got for the random forests classifier after fitting the model into the data and printing the scores are:
 
