@@ -1,4 +1,4 @@
-# Supervised Machine Learning - Predicting Credit Risk
+# Supervised Machine Learning - Predicting Credit Risk:
 
 In this assignment, I built a machine learning model to decide if the loan will be approved or not. 
 
